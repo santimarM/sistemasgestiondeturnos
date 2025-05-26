@@ -1,5 +1,7 @@
 # **SistemaGestionTurnos - Diseño de Sistema**
 
+## Información del Proyecto
+
 **Apellido:** Medel Marquez
 
 **Nombre:** Santiago 
